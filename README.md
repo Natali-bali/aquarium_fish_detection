@@ -10,3 +10,4 @@ Tasks from tutorial:
 - Filter out predictions that are below a certain probability threshold,
 - Analyze and plot the results
 
+![Alt Text](pic.png)
