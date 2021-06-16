@@ -9,5 +9,5 @@ Tasks from tutorial:
 - Collect labels / predictions for all slices,
 - Filter out predictions that are below a certain probability threshold,
 - Analyze and plot the results
-
+![Alt_Text](aquarium.jpg)
 ![Alt Text](pic.png)
